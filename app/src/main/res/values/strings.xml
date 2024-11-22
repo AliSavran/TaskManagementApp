@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task Management App</string>
+    <string name="add_task">Görev Ekle</string>
+</resources>
